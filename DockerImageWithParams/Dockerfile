@@ -1,6 +1,6 @@
 # Utilizes a minimal Alpine Linux image as base
 FROM alpine
-LABEL manteiner="Ewerton"
+LABEL mantainer="Ewerton"
 
 # declares the arg and sets the default value
 ARG MY_ARG="default value"
